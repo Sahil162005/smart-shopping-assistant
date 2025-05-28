@@ -27,7 +27,7 @@ Best overall option (composite score)
 ⚙️ Technologies Used
 Python 🐍
 
-NetworkX 🔗
+
 
 JSON 🧾
 💡 How It Works
